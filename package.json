@@ -1,0 +1,16 @@
+{
+  "name": "epicdiscordbot",
+  "version": "1.0.0",
+  "description": "Epic Meme Generator",
+  "main": "mg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KodaWise",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "canvas": "^2.11.2",
+    "discord.js": "^13.3.1"
+  }
+}
