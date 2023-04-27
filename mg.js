@@ -107,4 +107,4 @@ async function createMeme(background, foreground, text) {
     return canvas.toBuffer();
 }
 
-client.login('MTEwMTE1NTc5MTY2NDMxNjQ2Ng.GZLYEh.MRFHhILkF0D5LqCJ6TdzOh8rD6yRMZatWxvO6E');
+client.login('DISCORD_BOT_API');
